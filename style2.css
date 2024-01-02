@@ -1,0 +1,9 @@
+.image{
+    background-image: url('img/buliding.jpg');
+    width: 100%;
+    height: 300px;
+    background-size: cover;
+}
+
+
+
